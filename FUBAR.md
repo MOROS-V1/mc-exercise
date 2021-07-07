@@ -12,5 +12,10 @@ let see = function  () {
 
 
 alert("Hi") } 
+
+
+function sayByeToUser(){
+    alert('Bye user!');
+}
 `<ul></ul>`
 oqla edited
